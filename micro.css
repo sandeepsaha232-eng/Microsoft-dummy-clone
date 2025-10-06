@@ -1,0 +1,177 @@
+*{
+    padding:0%;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.headbar{
+    width: 100vw;
+    height: 20%;
+    display: flex;
+    padding: 2vh;
+    justify-content: space-between;
+     font-size: small;
+}
+
+.innerhead1{
+    display: flex;
+    gap: 20px;
+    padding-left:50px ;
+}
+.logo{
+    width: 8vw;
+    height: 3vh;
+}
+.innerelement{
+    margin-top: 5px;
+}
+.innerhead2{
+    display: flex;
+     gap: 2vw;
+     margin-right: 10vw;
+}
+.landingphoto{
+    background-image: url(https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-Surface-Laptop-AI-7Ed-Sapphire-MC001-3000x1682:VP5-1920x600);
+    width: 100vw;
+    height: 55vh;
+    background-size: cover;
+   
+}
+.landingtext{
+    padding: 15vh;
+
+}
+button{
+   background-color: #0067B8;
+   width: 140px;
+   height: 40px;
+   border-radius: 5%;
+}
+.Learn{
+    font-weight: 900;
+    text-decoration: none;
+    color: white;
+    
+} 
+.icon{
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+    color:black ;
+    width: 100vw;
+    height: 20vh;
+    gap: 40px;
+}
+.iconkeys{
+    color:  #0067B8;
+    margin-top: 20px;
+    gap: 10px;
+}
+.window365{
+   width: 50px;
+   margin-left: 80px;
+}
+.xbox{
+   width: 50px;
+
+}
+.window{
+   width: 50px;
+   margin-left: 30px;
+}
+.surface{
+  width: 50px;
+  margin-left: 60px;
+}
+.choosemicrsoft,.xbox,.getwindow11,.explore{
+    display: flex;
+   flex-direction: column;
+}
+.lowerbar{
+    display: flex;
+    width: 100%;
+    height: 55vh;
+    gap: 10px;
+}
+.loweritem{
+    width: 25vw;
+    height: 60vh;
+    padding-left: 40px;
+    border-radius: 2%;
+    box-shadow: 1px 1px 800px rgb(241, 240, 240);
+    border: 3px solid beige;
+}
+.surfacepro,.copliot,.xbox1,.xboxseries{
+    width: 20vw;
+    height: 30%;
+    background-size: cover;
+   
+}
+.lineheading{
+ padding: 30px;
+ padding-left: -20px;
+}
+.paraheading{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-bottom: 35px;
+}
+
+.learnbutton,.learnbutton1{
+color: white;
+}
+.xboxseriesS{
+    background-image: url(https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-XSS-Hero-Xbox-Series-S:VP5-1596x600);
+    width: 80vw;
+    height: 50vh;
+    background-size: cover;
+    margin: 8%;
+}
+.headofxbox{
+   margin: 1%;
+   padding-left: 10%;
+   padding-top: 10%;
+}
+.paraofxbox{
+   margin: 1%;
+   padding-left: 10%;  
+}
+.xboxbutton{
+   margin-left: 11%;
+   margin-top: 3%;
+   text-decoration: none;
+   color: white;
+   
+   }
+.outerbusiness{
+    display: flex;
+    width: 100vw;
+    height: 60vh;
+    
+
+}
+.innerbusiness{
+    width: 25vw;
+    height:60vh ;
+    margin: 1%;
+    padding-left: 2%;
+   box-shadow: 1px 1px 800px rgb(233, 225, 225);
+}
+.businessimg{
+    width: 20vw;
+    height:30vh;
+}
+ .lastline{
+    display: flex;
+    
+    width: 100vw;
+    height: 50vh;
+
+ }
+.logow{
+    width: 3vw;
+    height: 5vh;
+    padding-top: 8%;
+}
+.Follow{
+    padding-left: 8%;
+    padding-top: 9%;
+}
